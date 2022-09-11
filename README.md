@@ -40,5 +40,5 @@ python dk.py
 
 本项目采用 AGPL-3.0 进行授权。
 
-AGPL-3.0 证书请见 LICENSE.md
+AGPL-3.0 证书请见 LICENSE
 
