@@ -1,7 +1,5 @@
 # 黑龙江东方学院(East University of Heilongjiang)智慧东方自动打卡脚本
 
-# 本仓库正在更新中
-
 ## 说明和须知
 
 **1.本打卡脚本仅供学习交流使用，请勿过分依赖。开发者对使用或不使用本脚本造成的问题不负任何责任，不对脚本执行效果做出任何担保，原则上不提供任何形式的技术支持。**
@@ -12,7 +10,7 @@
 
 ## 使用方法
 
-**暂无**
+按照data.json内的信息更改即可
 
 
 ## 在本地运行测试
@@ -22,7 +20,12 @@
 ### 安装依赖
 
 ```shell
-pip install -r requirements.txt
+pip install requests
+pip install etree
+pip install re
+pip install json
+pip install pickle
+pip install time
 ```
 
 ### 运行打卡程序
