@@ -37,6 +37,7 @@ python dk.py
 
 
 ## 许可
-MIT License
+AGPL v3
+
 
 
